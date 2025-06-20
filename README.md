@@ -1,8 +1,7 @@
 # miPrimerRepo
 Mi primer repositorio yuju!
 
-segundos cambios para github
-segundos cambios para github
+como de que no shoto
 
 Un commit mas desde gitHub
 
